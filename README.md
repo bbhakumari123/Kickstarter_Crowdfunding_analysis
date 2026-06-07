@@ -190,7 +190,7 @@ The `static_usd_rate` column was used to standardise all goal amounts to USD acr
 
 ## 💻 SQL — What Was Built
 
-> 📄 **Full script:** [`/SQL/QUERIES.sql`](./SQL/QUERIES.sql)
+> 📄 **Full script:** [`/SQL/QUERIES.sql`](https://github.com/bbhakumari123/Kickstarter_Crowdfunding_analysis/blob/fd58961ca0526b8d7467735cb378be15f940f604/Kickstarter_crowdfunding_Analysis/SQL/QUERIES.sql)
 >
 > All queries written and tested in **MySQL**
 
