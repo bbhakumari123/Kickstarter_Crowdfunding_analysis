@@ -219,7 +219,7 @@ The `static_usd_rate` column was used to standardise all goal amounts to USD acr
 
 ### 📗 Excel Dashboard
 
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![Excel Dashboard](https://github.com/bbhakumari123/Kickstarter_Crowdfunding_analysis/blob/49c6f1102b8de2da7fab8a7fa823564d221f5d1e/Kickstarter_crowdfunding_Analysis/SCREENSHOT/Excel_Dashboard.png)
 
 <br>
 
