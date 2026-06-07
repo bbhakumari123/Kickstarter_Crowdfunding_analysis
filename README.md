@@ -46,14 +46,6 @@ This project performs an **end-to-end data analysis** of a real Kickstarter data
 📦 Kickstarter-Crowdfunding-Analysis
  ┣ 📂 SQL
  ┃ ┗ 📄 QUERIES.sql               → All transformation & analysis queries
- ┣ 📂 Excel
- ┃ ┗ 📄 Kickstarter.xlsx          → Cleaned data, calendar table, pivot KPIs & charts
- ┣ 📂 PowerBI
- ┃ ┗ 📄 Kickstarter.pbix          → Star schema model and DAX measures
- ┣ 📂 Tableau
- ┃ ┗ 📄 Kickstarter.twbx          → Calculated fields & interactive dashboard
- ┣ 📂 data
- ┃ ┗ 📄 sample_data.csv           → Sample 500-row dataset
  ┣ 📂 screenshots
  ┃ ┣ 🖼️ excel_dashboard.png
  ┃ ┣ 🖼️ tableau_dashboard.png
@@ -227,7 +219,7 @@ The `static_usd_rate` column was used to standardise all goal amounts to USD acr
 
 > 🔴 **[Click to view the live interactive dashboard →](https://public.tableau.com/app/profile/bibha.kumari/viz/crowdfunding_tableauDashboard/CROWDFUNDINGDASHBOARD)**
 
-![Tableau Dashboard]()
+![Tableau Dashboard](https://github.com/bbhakumari123/Kickstarter_Crowdfunding_analysis/blob/bb24faad613e4c198b4b791f0de5360f9c284f80/Kickstarter_crowdfunding_Analysis/SCREENSHOT/Tableau_dashboard.png)
 
 <br>
 
