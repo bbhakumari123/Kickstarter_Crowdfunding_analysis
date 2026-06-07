@@ -227,7 +227,7 @@ The `static_usd_rate` column was used to standardise all goal amounts to USD acr
 
 > 🔴 **[Click to view the live interactive dashboard →](https://public.tableau.com/app/profile/bibha.kumari/viz/crowdfunding_tableauDashboard/CROWDFUNDINGDASHBOARD)**
 
-![Tableau Dashboard](https://github.com/bbhakumari123/Kickstarter_Crowdfunding_analysis/blob/69aaccbbae17073330b41a711d46963c73a74a4d/Kickstarter_crowdfunding_Analysis/SCREENSHOT/POWER_BI_DASHBOARD.png)
+![Tableau Dashboard]()
 
 <br>
 
@@ -235,7 +235,7 @@ The `static_usd_rate` column was used to standardise all goal amounts to USD acr
 
 > 🟡 **[Click to view the live interactive dashboard →](https://app.powerbi.com/groups/me/reports/ab0fd8ee-ffb5-48e9-a2aa-3750c6f334a7/01e9bf483c23c125b203?experience=power-bi)**
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/bbhakumari123/Kickstarter_Crowdfunding_analysis/blob/69aaccbbae17073330b41a711d46963c73a74a4d/Kickstarter_crowdfunding_Analysis/SCREENSHOT/POWER_BI_DASHBOARD.png)
 
 ---
 
