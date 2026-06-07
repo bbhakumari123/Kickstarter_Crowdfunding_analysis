@@ -227,7 +227,7 @@ The `static_usd_rate` column was used to standardise all goal amounts to USD acr
 
 > 🔴 **[Click to view the live interactive dashboard →](https://public.tableau.com/app/profile/bibha.kumari/viz/crowdfunding_tableauDashboard/CROWDFUNDINGDASHBOARD)**
 
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/bbhakumari123/Kickstarter_Crowdfunding_analysis/blob/69aaccbbae17073330b41a711d46963c73a74a4d/Kickstarter_crowdfunding_Analysis/SCREENSHOT/POWER_BI_DASHBOARD.png)
 
 <br>
 
